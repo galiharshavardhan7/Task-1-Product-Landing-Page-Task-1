@@ -36,3 +36,5 @@ Design Templates: Leverage pre-designed templates to speed up the design process
 By utilizing a column-based layout, CSS, and image editing skills, we'll create a professional-looking product landing page that effectively showcases the product and drives conversions
 
 #Output:
+
+<img width="400" alt="Image" src="https://github.com/user-attachments/assets/79fa8b90-bdff-4c8d-818a-731e6c0f7379" />
